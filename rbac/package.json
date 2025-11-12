@@ -1,0 +1,12 @@
+{
+  "name": "rbac",
+  "version": "1.0.0",
+  "description": "RBAC Unit Test Example with Jest",
+  "main": "src/permissions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
